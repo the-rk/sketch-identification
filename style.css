@@ -16,11 +16,7 @@ canvas{
     margin-top:50px;
     animation-iteration-count:infinite;
 }
-@keyframes example {
-    from{box-shadow: 1px 1px 30px grey;}
-    to{ box-shadow: 1px 1px 30px white;}
-}
-
+@keyframes example { from {box-shadow: 1px 1px 38px rgb(41, 230, 4);} to {box-shadow: 1px 1px 38px rgb(228, 9, 9);} }
 p{
     padding-top: 10px;
     font-size: 25px;
